@@ -11207,13 +11207,14 @@ video.bg-video {
     background-size: cover; */
   }
   body video {
-    display: none;
+    /* display: none; */
   }
 }
 #__next {
   height: 100%;
 }
 .masthead {
+  height: 100%;
   position: relative;
   overflow: hidden;
   z-index: 2;
