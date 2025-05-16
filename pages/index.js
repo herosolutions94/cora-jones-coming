@@ -20,9 +20,10 @@ export default function Home() {
         <title>Cora Jones</title>
         <link rel="icon" type="image/x-icon" href="/favicon.png" />
       </Head>
-        <video className="bg-video" playsinline autoplay muted loop>
+     <video className="bg-video" playsInline autoPlay muted loop>
   <source src="/ai.mp4" type="video/mp4" />
 </video>
+
 
         <div className="masthead">
             <div className="masthead-content text-white">
